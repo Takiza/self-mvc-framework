@@ -2,3 +2,4 @@ ishop.loc.sublime-workspace
 autoload.php
 /vendor/composer
 /vendor/autoload.php
+.log
