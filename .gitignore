@@ -1,3 +1,4 @@
 ishop.loc.sublime-workspace
 autoload.php
-/composer
+/vendor/composer
+/vendor/autoload.php
